@@ -1,3 +1,3 @@
 ## Портфолио SIX CITIES
 
-[](./pic.png)
+![](./pic.png)
