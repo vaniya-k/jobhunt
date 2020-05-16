@@ -1,3 +1,3 @@
 ## Портфолио MAIN
 
-[Мой magnum opus] (six-cities)
+[Мой magnum opus](six-cities)
