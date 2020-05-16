@@ -1,3 +1,3 @@
-## Портфолио
+## Портфолио MAIN
 
-1. [Мой magpum opus](six-cities)
+[Мой magnum opus] (six-cities)
