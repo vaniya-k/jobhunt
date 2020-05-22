@@ -1,10 +1,12 @@
 ## HOC для приведения дат под роликами в "человеческий" вид
 \
-\
 [https://github.com/vaniya-k/netology_homeworks/tree/6-1_done/](https://github.com/vaniya-k/netology_homeworks/tree/6-1_done/)
 
 Если прошло менее часа &ndash; отсчет в минутах; менее суток &ndash; в часах; далее &ndash; в днях.
-
+\
+\
+\
 ![Before](01.png)
-
+\
+\
 ![After](02.png)
