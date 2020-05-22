@@ -1,12 +1,20 @@
-## HOC для приведения дат под роликами в "человеческий" вид
+## Редактируемый список услуг на Redux
 \
-[https://github.com/vaniya-k/netology_homeworks/tree/6-1_done/](https://github.com/vaniya-k/netology_homeworks/tree/6-1_done/)
+[https://github.com/vaniya-k/netology_homeworks/tree/4-full_done/](https://github.com/vaniya-k/netology_homeworks/tree/4-full_done/)
 
-Если прошло менее часа &ndash; отсчет в минутах; менее суток &ndash; в часах; далее &ndash; в днях.
+Два независимых компонента -- форма ввода и список с полем поиска, которые, собственно, используют Redux для манипуляции общим стейтом. CRUD для позиций реализован полностью.
+
+* Базовый вид
 \
 \
+![Basic](01.png)
+
+* Редактирование
 \
-![Before](01.png)
+\
+![Edit](02.png)
+
+* Поиск по списку
 \
 \
-![After](02.png)
+![Filter](03.png)
