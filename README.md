@@ -3,7 +3,7 @@
 \
 **I.** Выпускной проект на курсе HTML Academy по React &ndash; Six Cities [>>](six-cities)
 
-**II.** Выборка из домашних работ на курсе "Нетологии" по React:
+**II.** Выборка из заданий на курсе "Нетологии" по React:
 * Трекер шагов по датам [>>](netology-highlights/form)
 * HOC для приведения дат под роликами в "человеческий" вид [>>](netology-highlights/hoc)
 * Редактируемый список услуг на Redux [>>](netology-highlights/redux)
