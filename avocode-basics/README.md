@@ -1,6 +1,6 @@
 ## Верстка .psd-макета с помощью Avocode 
 \
-[https://github.com/vaniya-k/avocode-basics](https://github.com/vaniya-k/avocode-basics)
+[>> код <<](https://github.com/vaniya-k/avocode-basics)
 
 Задание с курсов GeekBrains.
 

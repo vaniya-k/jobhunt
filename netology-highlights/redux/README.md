@@ -1,6 +1,6 @@
 ## Редактируемый список услуг на Redux
 \
-[https://github.com/vaniya-k/netology_homeworks/tree/4-full_done/](https://github.com/vaniya-k/netology_homeworks/tree/4-full_done/)
+[>> код <<](https://github.com/vaniya-k/netology_homeworks/tree/4-full_done/)
 
 Два независимых компонента -- форма ввода и список с полем поиска, которые, собственно, используют Redux для манипуляции общим стейтом через хуки useSelector и useDispatch. CRUD для позиций реализован полностью.
 

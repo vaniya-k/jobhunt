@@ -1,6 +1,6 @@
 ## Выпускной проект на курсе HTML Academy по React &ndash; Six Cities
 \
-[https://github.com/vaniya-k/vanilla-2-vue-basics](https://github.com/vaniya-k/vanilla-2-vue-basics) / [ТЗ](specs.pdf)
+[>> код <<](https://github.com/vaniya-k/1353919-six-cities-3) / [>> ТЗ <<](specs.pdf)
 
 Мой текущий magnum opus.
 
