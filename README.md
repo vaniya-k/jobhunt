@@ -11,7 +11,7 @@
 
 **III.** Перевод мокапа интернет-магазина с "ванильного" JS на Vue  [>>](vanilla-2-vue-basics)
 
-**IV.** Верстка с помощью Avocode [>>](avocode-basics)
+**IV.** Верстка .psd-макета с помощью Avocode [>>](avocode-basics)
 \
 \
 \
