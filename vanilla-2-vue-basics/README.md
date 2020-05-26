@@ -1,6 +1,6 @@
 ## Перевод мокапа интернет-магазина с "ванильного" JS на Vue
 \
-[https://github.com/vaniya-k/netology_homeworks/tree/6-1_done/](https://github.com/vaniya-k/netology_homeworks/tree/6-1_done/)
+[https://github.com/vaniya-k/vanilla-2-vue-basics](https://github.com/vaniya-k/vanilla-2-vue-basics)
 
 Задание на основы Vue. Первая часть задания: рефакторинг исходника на "ванильном" JS, чтобы на выходе было Vue-приложение. Вторая часть задания: имплементация поиска, которого не было в исходнике.
 
