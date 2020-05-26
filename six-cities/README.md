@@ -2,7 +2,15 @@
 \
 [>> код <<](https://github.com/vaniya-k/1353919-six-cities-3)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[>> ТЗ <<](specs.pdf)
 
-Мой текущий magnum opus.
+Стек:
+- [x] Ручной конфиг webpack и babel (без create-react-app)
+- [x] Классовые компоненты без стейта, когда нужны триггеры жизненного цикла; внутренний стейт только через HOC-компоненты
+- [x] Redux+thunk
+- [x] роутинг на react-router-dom и history
+- [x] работа с внешним API, предоставленным HTML Academy, через axios
+- [x] Снапшот-тесты на jest всех компонентов с представлением
+- [x] Юнит-тесты на enzyme всех экшенов в редьюсерах
+- [x] интеграция карт с помощью "чистого" leaflet (без react-leaflet)
 
 * Логин 
 \
