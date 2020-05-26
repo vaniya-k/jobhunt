@@ -7,7 +7,7 @@
 * Трекер шагов по датам [>>](netology-highlights/form)
 * HOC для приведения дат под роликами в "человеческий" вид [>>](netology-highlights/hoc)
 * Редактируемый список услуг на Redux [>>](netology-highlights/redux)
-* Saga- и Observable-реализации трекера состояния загрузки для списка услуг [>>](netology-highlights/saga_&_observable)
+* Saga- и Observable-реализации реакций на текущее состояние загрузки [>>](netology-highlights/saga_&_observable)
 
 **III.** Перевод мокапа интернет-магазина с "ванильного" JS на Vue  [>>](vanilla-2-vue-basics)
 
