@@ -1,5 +1,7 @@
 ## Портфолио
 \
+[>> CV <<](cv_вания_каракасиян_react-разработчик.pdf)
+\
 \
 **I.** Выпускной проект на курсе HTML Academy по React &ndash; Six Cities [>>](six-cities)
 
@@ -14,4 +16,3 @@
 **IV.** Перевод мокапа интернет-магазина с "ванильного" JS на Vue  [>>](vanilla-2-vue-basics)
 
 **V.** Верстка .psd-макета с помощью Avocode [>>](avocode-basics)
-
