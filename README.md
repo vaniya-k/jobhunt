@@ -10,8 +10,6 @@
 * Редактируемый список услуг на Redux [>>](netology-highlights/redux)
 * Saga- и Observable-реализации реакций на текущее состояние загрузки [>>](netology-highlights/saga_&_observable)
 
-**IV.** Перевод мокапа интернет-магазина с "ванильного" JS на Vue  [>>](vanilla-2-vue-basics)
-
 **V.** Верстка .psd-макета с помощью Avocode [>>](avocode-basics)
 \
 \
