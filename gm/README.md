@@ -1,6 +1,6 @@
 ## Выпускной проект на курсе HTML Academy по React &ndash; Six Cities
 \
-[>> покликать самому <<](https://six-cities-by-vaniya-k.netlify.app/)&nbsp;&nbsp;&nbsp;/[>> посмотреть код <<](https://github.com/vaniya-k/1353919-six-cities-3)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[>> оценить ТЗ <<](specs.pdf)
+[>> покликать самому(-ой) <<](https://six-cities-by-vaniya-k.netlify.app/)&nbsp;&nbsp;&nbsp;/[>> посмотреть код <<](https://github.com/vaniya-k/1353919-six-cities-3)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[>> оценить ТЗ <<](specs.pdf)
 \
 \
 Сервис краткосрочной аренды для туристов. ТЗ выполнено в полном объеме и все было сдано в срок. Верстка предоставлялась с ТЗ. Никаких "шпаргалок" в виде код-эталона или прочего не было. Консультаций ментора суммарно набралось где-то на полтора часа из отпущенных пяти.
